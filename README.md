@@ -6,6 +6,7 @@ A simple Nginx web page used to demonstrate Git best practices.
 - main — stable/release
 - dev — integration
 - feature/* — feature work
+  
 
 ## Quick start
 docker build -t task4-nginx .
